@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE extensionset>
 <extensionset name="Centrora" description="Centrora Extensions List"> 
-	<extension name="Centrora Security" description="Centrora Security" element="pkg_centrora" type="package" client="site" version="6.6.1" detailsurl="http://www.centrora.com/software/update.xml"/>
+	<extension name="Centrora Security" description="Centrora Security" element="pkg_centrora" type="package" client="site" version="6.6.2" detailsurl="http://www.centrora.com/software/update.xml"/>
 </extensionset>
