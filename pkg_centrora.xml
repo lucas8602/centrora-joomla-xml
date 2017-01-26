@@ -3,7 +3,7 @@
 <extension type="package" version="2.5" method="upgrade">
 	<name>Centrora Security Package</name>
 	<packagename>centrora</packagename>
-	<version>6.6.0</version>
+	<version>6.6.1</version>
 	<versionname>Centrora</versionname>
 	<creationDate>2014-07-24</creationDate>
 	<author>Centrora Security Team</author>
