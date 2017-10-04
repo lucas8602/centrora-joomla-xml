@@ -3,16 +3,16 @@
 <extension type="package" version="2.5" method="upgrade">
 	<name>Centrora Security Package</name>
 	<packagename>centrora</packagename>
-	<version>7.0</version>
+	<version>7.0.2</version>
 	<versionname>Centrora</versionname>
-	<creationDate>2014-07-24</creationDate>
+	<creationDate>2017-09-21</creationDate>
 	<author>Centrora Security Team</author>
 	<author>Open Source Excellence</author>
 	<authorEmail>info@centrora.com</authorEmail>
 	<authorEmail>info@opensource-excellence.com</authorEmail>
 	<authorUrl>http://www.centrora.com</authorUrl>
 	<authorUrl>http://www.opensource-excellence.com</authorUrl>
-	<copyright>(C) 2013 - 2014 Centrora Security. All rights reserved.</copyright>
+	<copyright>(C) 2013 - 2017 Centrora Security. All rights reserved.</copyright>
 	<copyright>(C) 2008 - 2014 Open Source Excellence. All rights reserved.</copyright>
 	<license>GNU/GPLv3 or later</license>
 	<description>Centrora Security Package.</description>
@@ -21,7 +21,7 @@
 		<filename type="component"                    id="com_ose_firewall"  >com_centrora.zip</filename>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Centrora Security Update Site">http://www.centrora.com/software/list.xml</server>
+		<server type="collection" priority="1" name="Centrora Security Update Site">https://raw.githubusercontent.com/Centrora/centrora-joomla-xml/master/list.xml</server>
 	</updateservers>
 	<restorepoint>
 		<customdirs>
