@@ -5,7 +5,7 @@
 		<description>Centrora Security</description>
 		<element>pkg_centrora</element>
 		<type>package</type>
-		<version>7.1.1</version>
+		<version>7.1.3</version>
 		<infourl title="Centrora Security">http://www.centrora.com/centrora-security-plugin</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/HelixLee/centrora-joomla/archive/master.zip</downloadurl>
@@ -24,7 +24,7 @@
 		<description>Centrora Security</description>
 		<element>pkg_centrora</element>
 		<type>package</type>
-		<version>7.1.1</version>
+		<version>7.1.3</version>
 		<infourl title="Centrora Security">http://www.centrora.com/centrora-security-plugin</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/HelixLee/centrora-joomla/archive/master.zip</downloadurl>
@@ -43,7 +43,7 @@
 		<description>Centrora Security</description>
 		<element>pkg_centrora</element>
 		<type>package</type>
-		<version>7.1.1</version>
+		<version>7.1.3</version>
 		<infourl title="Centrora Security">http://www.centrora.com/centrora-security-plugin</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/HelixLee/centrora-joomla/archive/master.zip</downloadurl>
