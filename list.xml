@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE extensionset>
 <extensionset name="Centrora" description="Centrora Extensions List"> 
-	<extension name="Centrora Security" description="Centrora Security" element="pkg_centrora" type="package" client="site" version="7.1.3" detailsurl="https://raw.githubusercontent.com/Centrora/centrora-joomla-xml/master/update.xml"/>
+	<extension name="Centrora Security" description="Centrora Security" element="pkg_centrora" type="package" client="site" version="7.2.0" detailsurl="https://raw.githubusercontent.com/Centrora/centrora-joomla-xml/master/update.xml"/>
 </extensionset>
